@@ -1,0 +1,11 @@
+chunk_method,chunk_size,chunk_overlap,k,prompt_name,contains_primary_expected_pct,contains_any_expected_pct,avg_num_sources,avg_duplicate_ratio,avg_answer_length,runs
+recursive,700,120,5,compare_courses,100.0,100.0,4.25,0.15,782,4
+recursive,700,120,5,friendly_advisor,100.0,100.0,4.25,0.15,823,4
+recursive,700,120,5,strict_grounded,100.0,100.0,4.25,0.15,654,4
+recursive,700,200,5,compare_courses,100.0,100.0,4.25,0.15,779,4
+recursive,700,200,5,friendly_advisor,100.0,100.0,4.25,0.15,794,4
+recursive,700,200,5,strict_grounded,100.0,100.0,4.25,0.15,656,4
+recursive,1200,0,10,compare_courses,100.0,100.0,8.25,0.175,1022,4
+recursive,1200,0,10,friendly_advisor,100.0,100.0,8.25,0.175,1056,4
+recursive,1200,0,10,strict_grounded,100.0,100.0,8.25,0.175,620,4
+recursive,1200,50,10,compare_courses,100.0,100.0,8.25,0.175,1022,4

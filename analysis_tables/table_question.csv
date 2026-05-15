@@ -1,0 +1,6 @@
+question_index,question,unsupported_question,contains_primary_expected_pct,contains_any_expected_pct,avg_num_sources,avg_duplicate_ratio,avg_answer_length,runs
+1,What course should I take if I want to learn AI?,False,94.2,97.5,2.95,0.262,774,720
+2,Which course is about software architecture?,False,15.4,15.4,3.76,0.17,725,720
+3,What are the differences between the IKT courses related to AI and machine learning?,False,100.0,100.0,3.2,0.287,1131,720
+4,Which IKT course gives the best job opportunities?,True,,,4.53,0.017,522,720
+5,Which course is most related to cybersecurity research methods?,False,61.3,97.5,4.25,0.046,537,720

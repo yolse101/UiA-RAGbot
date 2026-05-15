@@ -1,0 +1,47 @@
+question_id,question,chunk_method,chunk_size,chunk_overlap,k,prompt_name,retrieved_course_codes,retrieved_course_names,answer
+Q1,What course should I take if I want to learn AI?,recursive,700,120,7,strict_grounded,"IKT725, IKT112, IKT725, IKT725, IKT724, IKT112, IKT721",Deep Reinforcement Learning | Concepts of Machine Learning | Deep Reinforcement Learning | Deep Reinforcement Learning | Deep Learning for Engineers | Concepts of Machine Learning | Statistical Signal Processing,"Based on the context provided, it seems that you are interested in learning about Artificial Intelligence (AI). The courses mentioned are related to Machine Learning and Deep Reinforcement Learning.
+
+However, there is no explicit mention of a course specifically focused on ""Artificial Intelligence"" (AI) in the provided context. But we can compare the courses:
+
+- IKT112 Concepts of Machine Learning covers machine learning concepts including supervised, unsupervised, and reinforcement learning.
+- IKT725 Deep Reinforcement Learning focuses on Deep Reinforcement Learning (DRL), which is a subfield of machine learning.
+
+Considering your interest in AI, I would recommend taking IKT112 Concepts of Machine Learning as it provides a broader introduction to machine learning concepts. If you're interested in a more specialized course, IKT725 Deep Reinforcement Learning might be suitable if you have the required background knowledge.
+
+Sources:
+IKT112
+IKT725"
+Q2,Which course is about software architecture?,recursive,700,120,7,strict_grounded,"IKT723, IKT626, IKT103, IKT101, IKT300, IKT218, IKT202",Wireless Prototyping using SDRs | Main Results and Research Topics in Security | Videregående softwareutvikling | Grunnleggende softwareutvikling | Software arkitektur og design | Avanserte operativsystemer | Software Engineering,"Based on the provided context, the course related to software architecture is:
+
+IKT300 Software arkitektur og design (Høst 2025)
+
+Sources:
+IKT300 - Universitetet i Agder"
+Q3,What are the differences between the IKT courses related to AI and machine learning?,recursive,700,120,7,strict_grounded,"IKT112, IKT724, IKT727, IKT112, IKT710, IKT112, IKT725",Concepts of Machine Learning | Deep Learning for Engineers | Advanced Theory on Selected Topics in ICT | Concepts of Machine Learning | Learning in Random Environments | Concepts of Machine Learning | Deep Reinforcement Learning,"Based on the provided context, here's a comparison of the IKT courses related to AI and machine learning:
+
+* **IKT112 Concepts of Machine Learning**: Covers basic concepts of machine learning, including supervised, unsupervised, and reinforcement learning. It also introduces real-world applications of machine learning.
+* **IKT724 Deep Learning for Engineers**: Not explicitly mentioned in the context, but based on its title, it likely focuses on deep learning techniques for engineers.
+* **IKT725 Deep Reinforcement Learning**: Focuses specifically on deep reinforcement learning, which is a subfield of machine learning that combines deep learning and reinforcement learning.
+
+The main differences between these courses are:
+
+* IKT112 provides an introduction to the basics of machine learning, while IKT725 focuses on a specific subfield (deep reinforcement learning).
+* IKT724 is not explicitly described in the context, but its title suggests it may cover more advanced topics related to deep learning.
+* IKT727 **Advanced Theory on Selected Topics in ICT** is not directly related to AI and machine learning, as it appears to be focused on advanced theories for Ph.D. students.
+
+Sources:
+IKT112, IKT724, IKT725, IKT727"
+Q4,Which IKT course gives the best job opportunities?,recursive,700,120,7,strict_grounded,"IKT626, IKT725, IKT724, IKT720, IKT723, IKT518, IKT721",Main Results and Research Topics in Security | Deep Reinforcement Learning | Deep Learning for Engineers | Optimization | Wireless Prototyping using SDRs | Sikkerhetsprotokoller | Statistical Signal Processing,"Unfortunately, the context does not provide any information about the job opportunities related to each course.
+
+However, based on the course descriptions and requirements, it seems that IKT723 (Deep Learning for Engineers) has a more comprehensive project component with a 120-hour project and an oral exam. This might indicate a more hands-on and practical approach, which could be beneficial for students looking for job opportunities in industry or research.
+
+Sources:
+IKT723"
+Q5,Which course is most related to cybersecurity research methods?,recursive,700,120,7,strict_grounded,"IKT626, IKT448, IKT523, IKT525, IKT519, IKT447, IKT521","Main Results and Research Topics in Security | IKT-forskningsmetoder | Masteroppgave, cybersikkerhet | Masteroppgave, cybersikkerhet | Blokkjeder og distribuerte teknologier | Tillit, trusler, risiko og sårbarheter | Kryptografi og kryptografiske systemer","Based on the context, the course that is most related to cybersecurity research methods is:
+
+IKT448 IKT-forskningsmetoder (Høst 2025) - Universitetet i Agder
+
+This course is specifically listed as ""IKT-forskningsmetoder"" which translates to ""Cybersecurity Research Methods"". It is also associated with the Master's Programme in Cybersecurity Engineering and Cybersikkerhet, masterprogram.
+
+Sources:
+IKT448"

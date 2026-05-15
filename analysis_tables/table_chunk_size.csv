@@ -1,0 +1,6 @@
+chunk_size,contains_primary_expected_pct,contains_any_expected_pct,avg_num_sources,avg_duplicate_ratio,runs
+300,58.9,71.4,3.28,0.234,576
+500,70.8,76.6,3.42,0.208,576
+700,71.9,80.7,3.66,0.165,576
+900,72.9,80.2,3.61,0.182,576
+1200,64.1,79.2,3.72,0.166,576

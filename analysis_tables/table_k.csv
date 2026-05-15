@@ -1,0 +1,7 @@
+k,contains_primary_expected_pct,contains_any_expected_pct,avg_num_sources,avg_duplicate_ratio,avg_answer_length,runs
+1,44.4,67.5,1.0,0.0,496,480
+2,59.4,75.0,1.76,0.122,644,480
+3,65.0,75.0,2.29,0.235,689,480
+5,75.6,80.6,3.71,0.258,822,480
+7,77.5,82.5,5.18,0.26,1224,480
+10,84.4,85.0,7.28,0.272,877,480

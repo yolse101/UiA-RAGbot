@@ -1,0 +1,4 @@
+prompt_name,contains_primary_expected_pct,contains_any_expected_pct,avg_answer_length,avg_llm_seconds,runs
+compare_courses,67.7,77.6,1014,1.11,960
+friendly_advisor,67.7,77.6,819,0.91,960
+strict_grounded,67.7,77.6,542,0.66,960
